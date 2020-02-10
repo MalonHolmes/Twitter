@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [X] User can log in. (1pt)
 - [X] User can log out. (1pt)
 - [X] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [X] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
