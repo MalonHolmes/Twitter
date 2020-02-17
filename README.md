@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 # Twitter - Part I
 This is basic Twitter-esque app that reads your tweets, "barrowing" ;) Twitter API.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
